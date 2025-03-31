@@ -23,5 +23,9 @@
         <img src="https://raw.githubusercontent.com/juancarlosierrac/juancarlosierrac/main/images/AWS%20Certified%20Cloud%20Practitioner.png" 
              width="150px" height="150px" alt="AWS Certified Cloud Practitioner Badge"/>
     </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://credentials.databricks.com/a867dfeb-63d7-4761-b767-9def8863565b#acc.wYRAxtfV">
+        <img src="https://raw.githubusercontent.com/juancarlosierrac/juancarlosierrac/main/images/Databricks%20Fundamentals.png" 
+             width="150px" height="150px" alt="Databricks Fundamentals Badge"/>
+    </a>
 </div>
-
