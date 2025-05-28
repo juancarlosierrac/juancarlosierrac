@@ -17,15 +17,13 @@
 <br><br>
 
 ## Certification Badges 🪶
-
 <div align="center">
-    <a href="https://www.credly.com/badges/34a805d0-d9d5-41b6-b2ec-2e85ee024d32/public_url">
-        <img src="https://raw.githubusercontent.com/juancarlosierrac/juancarlosierrac/main/images/AWS%20Certified%20Cloud%20Practitioner.png" 
-             width="150px" height="150px" alt="AWS Certified Cloud Practitioner Badge"/>
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://credentials.databricks.com/a867dfeb-63d7-4761-b767-9def8863565b#acc.wYRAxtfV">
-        <img src="https://raw.githubusercontent.com/juancarlosierrac/juancarlosierrac/main/images/Databricks%20Fundamentals.png" 
-             width="150px" height="150px" alt="Databricks Fundamentals Badge"/>
-    </a>
+  <a href="https://www.credly.com/badges/34a805d0-d9d5-41b6-b2ec-2e85ee024d32/public_url" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/juancarlosierrac/juancarlosierrac/main/images/AWS%20Certified%20Cloud%20Practitioner.png" width="150px" height="150px" alt="AWS Certified Cloud Practitioner Badge"/>
+  </a>
+  <a href="https://credentials.databricks.com/a867dfeb-63d7-4761-b767-9def8863565b#acc.wYRAxtfV" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/juancarlosierrac/juancarlosierrac/main/images/Databricks%20Fundamentals.png" width="130px" height="150px" alt="Databricks Fundamentals Badge"/>
+  </a>
 </div>
+
+
