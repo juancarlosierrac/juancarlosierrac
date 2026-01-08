@@ -6,7 +6,7 @@
 
 <img src="https://raw.githubusercontent.com/juancarlosierrac/juancarlosierrac/main/images/about-me.png" min-width="300px" max-width="300px" width="350px" align="right">
 
-✨ Data Engineer @Scotiabank <br>
+✨ Data Engineer @Lovelytics <br>
 ⚡ Passionate about building robust ETL pipelines and optimizing data workflows <br>
 🔹 Experienced in **Azure, Azure Data Factory, Databricks and PySpark** <br>
 💡 Currently learning **Microsoft Fabric, Snowflake, Delta Lake and Apache Airflow** <br>
